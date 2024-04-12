@@ -1,7 +1,7 @@
 {
-  "name": "rohansx",
+  "name": "souravvmishra",
   "version": "1.0.3",
-  "description": "Rohan's introduction on terminal",
+  "description": "Sourav Mishra's introduction on terminal",
   "exports": "./index.js",
   "bin": {
     "rohansx": "./bin/index.js"

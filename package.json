@@ -17,21 +17,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rohansx/npx-rohan.git"
+    "url": "git+https://github.com/Souravvmishra/npx-souarvvmishra"
   },
   "keywords": [
     "business",
-    "rohan",
+    "souravvmishra",
     "npx-card",
     "business",
     "card",
-    "rohan",
-    "sharma"
+    "Sourav",
+    "Sourav Mishra",
+    "Mishra"
   ],
-  "author": "rohansx",
+  "author": "Sourav Mishra",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rohansx/npx-rohan/issues"
+    "url": "https://github.com/Souravvmishra/npx-souarvvmishra/issues"
   },
   "homepage": "https://github.com/rohansx/npx-rohan#readme",
   "dependencies": {
